@@ -1,0 +1,65 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Sudoku\.metadata\.plugins\org.eclipse.core.resources\.projects\StudentRegister\com.python.pydev.analysis\v2_indexcache
+domain.Student|1515077850635389000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentRegister\domain\Student.py
+repo.__init__|1515076824943906000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentRegister\repo\__init__.py
+repo.Repository|1515078952110673000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentRegister\repo\Repository.py
+tests.TestRepo|1515078952085110000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentRegister\tests\TestRepo.py
+domain.__init__|1515075993668441000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentRegister\domain\__init__.py
+tests.__init__|1515075788678354000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentRegister\tests\__init__.py
+tests.StudentTest|1515077255174299000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentRegister\tests\StudentTest.py
+-- END DISKCACHE
+-- START DICTIONARY
+20
+4=domain.Student
+11=FileRepository
+2=repo.Repository
+18=FileRepository.__init__
+20=TestStudent
+9=Student
+5=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentRegister\tests\TestRepo.py
+1=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentRegister\repo\Repository.py
+10=Repository
+16=Repository.__init__
+13=Student.set_id
+17=TestRepo.setUp
+6=tests.TestRepo
+14=Student.set_name
+15=TestStudent.setUp
+3=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentRegister\domain\Student.py
+19=TestRepo
+7=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentRegister\tests\StudentTest.py
+8=tests.StudentTest
+12=Student.__init__
+-- END DICTIONARY
+-- START TREE 1
+4
+fil|1|FileRepository!1^8#7*17@
+rep|2|Repository!1^1#7*17@RepoException!1^49#7*17@
+stu|1|Student!3^1#7*33@
+tes|2|TestRepo!5^12#7*49@TestStudent!7^9#7*65@
+-- END TREE
+-- START TREE 2
+21
+__e|1|__eq__!9&3^24#9*34@
+__i|5|__init__!10&1^2#9*18@__init__!11&1^21#9*18@__init__!9&3^4#9*34@__id!12&3^5#9*35@__id!13&3^18#9*35@
+__n|2|__name!12&3^6#9*35@__name!14&3^22#9*35@
+__w|1|__writeAllToFile!11&1^32#9*18@
+_an|1|_anotherstudent!15&7^19#9*67@
+_el|1|_elems!16&1^3#9*19@
+_id|1|_id!15&7^13#9*67@
+_na|1|_name!15&7^14#9*67@
+_ot|3|_othername!15&7^16#9*67@_otherid!15&7^15#9*67@_otherstudent!15&7^18#9*67@
+_re|1|_repo!17&5^17#9*51@
+_st|1|_student!15&7^17#9*67@
+add|1|add!11&1^39#9*18@
+get|2|get_name!9&3^13#9*34@get_id!9&3^9#9*34@
+obj|1|objToStr!18&1^24#9*19@
+rea|1|readAllFromFile!11&1^11#9*18@
+set|4|setUp!19&5^15#9*50@set_name!9&3^21#9*34@setUp!20&7^12#9*66@set_id!9&3^17#9*34@
+str|2|strToStudent!9&3^28#9*34@strToObj!18&1^23#9*19@
+stu|1|studentToStr!9&3^33#9*34@
+tea|2|tearDown!19&5^20#9*50@tearDown!20&7^22#9*66@
+tes|2|testName!20&7^26#9*66@testName!19&5^24#9*50@
+txt|1|txt!18&1^22#9*19@
+-- END TREE

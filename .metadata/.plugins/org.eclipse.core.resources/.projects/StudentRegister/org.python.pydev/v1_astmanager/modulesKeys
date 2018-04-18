@@ -1,0 +1,8 @@
+MODULES_MANAGER_V2
+domain.Student|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentRegister\domain\Student.py
+domain.__init__|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentRegister\domain\__init__.py
+repo.Repository|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentRegister\repo\Repository.py
+repo.__init__|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentRegister\repo\__init__.py
+tests.StudentTest|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentRegister\tests\StudentTest.py
+tests.TestRepo|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentRegister\tests\TestRepo.py
+tests.__init__|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentRegister\tests\__init__.py

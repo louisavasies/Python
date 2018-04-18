@@ -1,0 +1,66 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Sudoku\.metadata\.plugins\org.eclipse.core.resources\.projects\Test1\com.python.pydev.analysis\v2_indexcache
+repository.Repository|1516125179288069000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Test1\repository\Repository.py
+domain.Car|1516123459537147000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Test1\domain\Car.py
+repository.__init__|1516120486314609000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Test1\repository\__init__.py
+repository.testRepository|1516125057257626000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Test1\repository\testRepository.py
+domain.__init__|1516119301757117000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Test1\domain\__init__.py
+domain.testCar|1516121612384166000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Test1\domain\testCar.py
+-- END DISKCACHE
+-- START DICTIONARY
+21
+14=FileRepository
+7=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Test1\repository\testRepository.py
+2=domain.Car
+17=FileRepository.__init__
+5=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Test1\domain\testCar.py
+6=domain.testCar
+1=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Test1\domain\Car.py
+4=repository.Repository
+11=Car.set_brand
+13=Repository
+19=Repository.__init__
+15=Car
+21=Test
+3=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Test1\repository\Repository.py
+8=repository.testRepository
+12=Car.set_eng_power
+18=Car.set_type
+9=Car.__init__
+20=Test.testRepository
+16=Car.set_id
+10=Car.set_avg_speed
+-- END DICTIONARY
+-- START TREE 1
+4
+car|1|Car!1^7#7*17@
+fil|1|FileRepository!3^51#7*33@
+rep|2|RepoException!3^7#7*33@Repository!3^11#7*33@
+tes|2|Test!5^10#7*49@Test!7^11#7*65@
+-- END TREE
+-- START TREE 2
+22
+__a|2|__avg_speed!9&1^15#9*19@__avg_speed!10&1^64#9*19@
+__b|2|__brand!9&1^13#9*19@__brand!11&1^56#9*19@
+__e|2|__eng_power!9&1^14#9*19@__eng_power!12&1^60#9*19@
+__i|5|__init__!13&3^12#9*34@__init__!14&3^52#9*34@__init__!15&1^10#9*18@__id!9&1^11#9*19@__id!16&1^48#9*19@
+__o|1|__objToStr!17&3^55#9*35@
+__r|1|__readAllFromFile!14&3^60#9*34@
+__s|1|__strToObj!17&3^54#9*35@
+__t|3|__txt!17&3^53#9*35@__type!9&1^12#9*19@__type!18&1^52#9*19@
+__w|1|__writeAllToFile!14&3^68#9*34@
+_el|1|_elems!19&3^13#9*35@
+_re|1|_repo!20&7^15#9*67@
+add|2|add!13&3^18#9*34@add!14&3^76#9*34@
+car|1|carToStr!15&1^70#9*18@
+fin|1|find_by_id!13&3^25#9*34@
+get|6|get_eng_power!15&1^39#9*18@get_brand!15&1^35#9*18@get_type!15&1^31#9*18@get_avg_speed!15&1^43#9*18@get_top_speed!15&1^66#9*18@get_id!15&1^27#9*18@
+set|5|set_eng_power!15&1^59#9*18@set_type!15&1^51#9*18@set_id!15&1^47#9*18@set_brand!15&1^55#9*18@set_avg_speed!15&1^63#9*18@
+siz|1|size!13&3^15#9*34@
+str|1|strToCar!15&1^74#9*18@
+swa|1|swap_engines!13&3^30#9*34@
+tes|2|testRepository!21&7^14#9*66@testCar!21&5^13#9*50@
+top|1|Top5CarsByTopSpeed!13&3^42#9*34@
+val|2|validate_brand!15&1^22#9*18@validate_type!15&1^17#9*18@
+-- END TREE

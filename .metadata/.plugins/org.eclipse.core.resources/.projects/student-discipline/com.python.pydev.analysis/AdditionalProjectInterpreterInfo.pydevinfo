@@ -1,0 +1,94 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Sudoku\.metadata\.plugins\org.eclipse.core.resources\.projects\student-discipline\com.python.pydev.analysis\v2_indexcache
+domain.TestSDdto|1516296724480253000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\student-discipline\domain\TestSDdto.py
+domain.TestDiscipline|1516295721974232000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\student-discipline\domain\TestDiscipline.py
+domain.__init__|1516294907408542000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\student-discipline\domain\__init__.py
+domain.TestStudentDiscipline|1516298769173971000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\student-discipline\domain\TestStudentDiscipline.py
+domain.Validators|1516298660392021000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\student-discipline\domain\Validators.py
+domain.TestStudent|1516295721310413000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\student-discipline\domain\TestStudent.py
+domain.entities|1516298739146146000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\student-discipline\domain\entities.py
+domain.dto|1516298754758618000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\student-discipline\domain\dto.py
+-- END DISKCACHE
+-- START DICTIONARY
+43
+37=TestStudentDiscipline
+18=StoreError.__init__
+27=StudentDisciplineDTO
+32=TestDiscipline.setUp
+30=Discipline.set_name
+36=StudentDisciplineAssembler
+41=StudentValidator
+23=Discipline.set_id
+9=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\student-discipline\domain\TestSDdto.py
+28=StoreError
+14=domain.TestDiscipline
+15=Grade.__init__
+2=domain.Validators
+12=domain.TestStudentDiscipline
+3=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\student-discipline\domain\entities.py
+25=Discipline
+5=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\student-discipline\domain\dto.py
+21=Student.__init__
+22=Discipline.__init__
+33=TestStudentDiscipline.setUp
+1=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\student-discipline\domain\Validators.py
+43=StudentDisciplineValidator
+20=StudentDisciplineDTO.set_grade
+42=DisciplineValidator
+40=TestSDdto
+38=TestStudent
+26=Grade
+8=domain.TestStudent
+24=Student
+11=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\student-discipline\domain\TestStudentDiscipline.py
+31=StudentDisciplineDTO.set_sid
+16=StudentDisciplineDTO.__init__
+17=StudentDisciplineDTO.set_did
+39=TestDiscipline
+10=domain.TestSDdto
+13=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\student-discipline\domain\TestDiscipline.py
+29=Student.set_name
+35=TestSDdto.setUp
+34=TestStudent.setUp
+7=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\student-discipline\domain\TestStudent.py
+19=Grade.set_grade
+4=domain.entities
+6=domain.dto
+-- END DICTIONARY
+-- START TREE 1
+6
+dis|2|DisciplineValidator!1^38#7*17@Discipline!3^34#7*33@
+gra|1|Grade!3^113#7*33@
+sto|1|StoreError!1^7#7*17@
+stu|5|StudentValidator!1^27#7*17@StudentDisciplineAssembler!5^9#7*49@StudentDisciplineValidator!1^49#7*17@Student!3^8#7*33@StudentDisciplineDTO!3^139#7*33@
+tes|4|TestStudent!7^9#7*65@TestSDdto!9^13#7*81@TestStudentDiscipline!11^10#7*97@TestDiscipline!13^9#7*113@
+val|1|ValidatorError!1^24#7*17@
+-- END TREE
+-- START TREE 2
+24
+__d|3|__did!15&3^117#9*35@__did!16&3^143#9*35@__did!17&3^167#9*35@
+__e|1|__ex!18&1^10#9*19@
+__g|4|__grade!15&3^118#9*35@__grade!19&3^133#9*35@__grade!16&3^144#9*35@__grade!20&3^171#9*35@
+__i|9|__id!21&3^10#9*35@__id!22&3^38#9*35@__id!23&3^58#9*35@__id!16&3^141#9*35@__init__!24&3^9#9*34@__init__!25&3^37#9*34@__init__!26&3^115#9*34@__init__!27&3^140#9*34@__init__!28&1^8#9*18@
+__m|1|__message!18&1^11#9*19@
+__n|4|__name!21&3^11#9*35@__name!29&3^22#9*35@__name!22&3^39#9*35@__name!30&3^62#9*35@
+__s|8|__str__!24&3^24#9*34@__str__!25&3^101#9*34@__str__!26&3^136#9*34@__str__!27&3^177#9*34@__sid!15&3^116#9*35@__sid!16&3^142#9*35@__sid!31&3^163#9*35@__str__!28&1^21#9*18@
+_di|2|_discipline!32&13^15#9*115@_did!33&11^15#9*99@
+_gr|1|_grade!33&11^16#9*99@
+_id|2|_id!34&7^13#9*67@_id!32&13^13#9*115@
+_na|2|_name!32&13^14#9*115@_name!34&7^14#9*67@
+_sd|2|_SD!33&11^17#9*99@_SDdto!35&9^21#9*83@
+_si|1|_sid!33&11^14#9*99@
+_st|1|_student1!34&7^15#9*67@
+cre|1|create_student_discipline_dto!36&5^12#9*50@
+del|2|del_name!25&3^77#9*34@del_id!25&3^73#9*34@
+get|11|get_name!24&3^17#9*34@get_name!25&3^45#9*34@get_id!24&3^13#9*34@get_id!25&3^41#9*34@get_did!26&3^124#9*34@get_id!27&3^146#9*34@get_did!27&3^154#9*34@get_sid!26&3^120#9*34@get_grade!26&3^128#9*34@get_sid!27&3^150#9*34@get_grade!27&3^158#9*34@
+id|1|id!25&3^103#5*35@
+mes|1|message!28&1^14#9*18@
+nam|1|name!25&3^104#5*35@
+set|11|set_id!25&3^57#9*34@setUp!37&11^13#9*98@set_did!27&3^166#9*34@set_grade!26&3^132#9*34@set_grade!27&3^170#9*34@set_name!24&3^21#9*34@set_name!25&3^61#9*34@setUp!38&7^12#9*66@setUp!39&13^12#9*114@setUp!40&9^16#9*82@set_sid!27&3^162#9*34@
+tea|4|tearDown!37&11^20#9*98@tearDown!39&13^18#9*114@tearDown!38&7^17#9*66@tearDown!40&9^23#9*82@
+tes|4|testName!39&13^22#9*114@testName!38&7^21#9*66@testName!40&9^27#9*82@testName!37&11^24#9*98@
+val|3|validate!41&1^28#9*18@validate!42&1^39#9*18@validate!43&1^50#9*18@
+-- END TREE

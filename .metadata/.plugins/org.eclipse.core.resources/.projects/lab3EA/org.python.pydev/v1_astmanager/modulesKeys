@@ -1,0 +1,11 @@
+MODULES_MANAGER_V2
+algorithm.Algorithm|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\lab3EA\algorithm\Algorithm.py
+algorithm.__init__|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\lab3EA\algorithm\__init__.py
+application.Application|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\lab3EA\application\Application.py
+application.__init__|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\lab3EA\application\__init__.py
+individ.Individ|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\lab3EA\individ\Individ.py
+individ.__init__|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\lab3EA\individ\__init__.py
+population.Population|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\lab3EA\population\Population.py
+population.__init__|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\lab3EA\population\__init__.py
+problem.Problem|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\lab3EA\problem\Problem.py
+problem.__init__|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\lab3EA\problem\__init__.py

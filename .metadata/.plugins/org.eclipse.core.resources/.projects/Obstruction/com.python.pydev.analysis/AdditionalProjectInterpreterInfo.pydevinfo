@@ -1,0 +1,62 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Sudoku\.metadata\.plugins\org.eclipse.core.resources\.projects\Obstruction\com.python.pydev.analysis\v2_indexcache
+controller.Controller|1518882599530166000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Obstruction\controller\Controller.py
+repository.Repository|1518884802218877000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Obstruction\repository\Repository.py
+repository.__init__|1518025265464764000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Obstruction\repository\__init__.py
+ui.__init__|1518028302673186000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Obstruction\ui\__init__.py
+main|1518035043072150000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Obstruction\main.py
+ui.Console|1518884553651381000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Obstruction\ui\Console.py
+controller.__init__|1518027796367835000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Obstruction\controller\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+16
+16=App
+3=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Obstruction\controller\Controller.py
+2=main
+9=Console.__init__
+11=Repository.readFile
+13=Controller
+15=Controller.__init__
+4=controller.Controller
+8=repository.Repository
+10=Repository.__init__
+12=Repository
+1=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Obstruction\main.py
+7=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Obstruction\repository\Repository.py
+14=Console
+6=ui.Console
+5=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Obstruction\ui\Console.py
+-- END DICTIONARY
+-- START TREE 1
+3
+app|2|app!1^29#9*19@App!1^13#7*17@
+con|2|Controller!3^8#7*33@Console!5^7#7*49@
+rep|1|Repository!7^11#7*65@
+-- END TREE
+-- START TREE 2
+23
+__c|3|__controller!9&5^9#9*51@__C!10&7^15#9*67@__C!11&7^42#9*67@
+__f|2|__F!10&7^16#9*67@__F!11&7^59#9*67@
+__h|2|__H!10&7^14#9*67@__H!11&7^41#9*67@
+__i|3|__init__!12&7^12#9*66@__init__!13&3^9#9*34@__init__!14&5^8#9*50@
+__r|2|__read_command!14&5^117#9*50@__repo!15&3^10#9*35@
+__s|1|__str__!12&7^125#9*66@
+__t|1|__table!10&7^13#9*67@
+add|1|addMove!12&7^65#9*66@
+cre|3|createH!13&3^15#9*34@createMoveC!12&7^107#9*66@createC!13&3^23#9*34@
+gen|1|generateTable!12&7^119#9*66@
+get|2|getFree!13&3^28#9*34@getFree!12&7^61#9*66@
+isf|1|isFree!12&7^73#9*66@
+loa|1|load_game!13&3^35#9*34@
+mai|1|main!16&1^14#9*18@
+pri|2|printTable!13&3^38#9*34@print_all_options!14&5^120#9*50@
+rea|1|readFile!12&7^40#9*66@
+run|1|run!14&5^91#9*50@
+sav|1|save_game!13&3^32#9*34@
+set|1|setFree!12&7^18#9*66@
+try|1|tryMove!13&3^12#9*34@
+ui_|3|ui_start_game!14&5^11#9*50@ui_save_game!14&5^107#9*50@ui_load_game!14&5^101#9*50@
+val|1|validateMove!12&7^78#9*66@
+wri|1|writeToFile!12&7^26#9*66@
+-- END TREE

@@ -1,0 +1,71 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Sudoku\.metadata\.plugins\org.eclipse.core.resources\.projects\GameOfLife\com.python.pydev.analysis\v2_indexcache
+controller.Controller|1519041720539787000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\GameOfLife\controller\Controller.py
+repository.Repository|1519044338710989000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\GameOfLife\repository\Repository.py
+repository.__init__|1519033463703990000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\GameOfLife\repository\__init__.py
+ui.__init__|1519034850832731000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\GameOfLife\ui\__init__.py
+main|1519040965605767000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\GameOfLife\main.py
+ui.Console|1519041103035722000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\GameOfLife\ui\Console.py
+controller.__init__|1519034748644410000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\GameOfLife\controller\__init__.py
+repository.TestRepo|1519044780084016000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\GameOfLife\repository\TestRepo.py
+-- END DISKCACHE
+-- START DICTIONARY
+22
+21=App
+3=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\GameOfLife\controller\Controller.py
+7=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\GameOfLife\repository\Repository.py
+1=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\GameOfLife\main.py
+20=Repository.loadGame
+2=main
+5=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\GameOfLife\ui\Console.py
+12=Console.__init__
+15=Controller
+10=repository.TestRepo
+18=Controller.__init__
+4=controller.Controller
+8=repository.Repository
+11=Repository.__init__
+13=Repository.establishDead
+14=Repository
+16=Console
+19=Repository.saveGame
+6=ui.Console
+22=TestRepo
+17=TestRepo.testName
+9=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\GameOfLife\repository\TestRepo.py
+-- END DICTIONARY
+-- START TREE 1
+4
+app|2|app!1^25#9*19@App!1^13#7*17@
+con|2|Controller!3^7#7*33@Console!5^7#7*49@
+rep|1|Repository!7^7#7*65@
+tes|1|TestRepo!9^10#7*81@
+-- END TREE
+-- START TREE 2
+24
+__a|1|__alive!11&7^10#9*67@
+__c|1|__controller!12&5^9#9*51@
+__d|2|__dead!11&7^11#9*67@__dead!13&7^14#9*67@
+__i|3|__init__!14&7^8#9*66@__init__!15&3^8#9*34@__init__!16&5^8#9*50@
+__p|1|__patternfile!11&7^9#9*67@
+__r|3|__repo!17&9^14#9*83@__read_command!16&5^11#9*50@__repo!18&3^9#9*35@
+__s|3|__slfile!19&7^116#9*67@__slfile!20&7^126#9*67@__str__!14&7^165#9*66@
+add|2|addPattern!14&7^138#9*66@addPattern!15&3^16#9*34@
+cou|1|countLiveNeigh!14&7^69#9*66@
+est|1|establishDead!14&7^13#9*66@
+gen|2|generation!14&7^23#9*66@generateTable!14&7^158#9*66@
+get|2|getTable!15&3^36#9*34@getNeigh!14&7^56#9*66@
+isa|1|isAlive!14&7^79#9*66@
+isd|1|isDead!14&7^84#9*66@
+iso|1|isOkay!14&7^64#9*66@
+loa|2|loadsave!15&3^30#9*34@loadGame!14&7^125#9*66@
+mai|1|main!21&1^14#9*18@
+mak|1|makeGeneration!15&3^27#9*34@
+rea|1|readPattern!14&7^89#9*66@
+run|1|run!16&5^15#9*50@
+sav|1|saveGame!14&7^115#9*66@
+set|1|setDead!15&3^21#9*34@
+tes|1|testName!22&9^13#9*82@
+val|1|validateCell!14&7^46#9*66@
+-- END TREE

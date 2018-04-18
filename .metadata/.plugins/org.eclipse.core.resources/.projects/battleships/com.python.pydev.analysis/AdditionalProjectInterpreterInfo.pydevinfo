@@ -1,0 +1,117 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Sudoku\.metadata\.plugins\org.eclipse.core.resources\.projects\battleships\com.python.pydev.analysis\v2_indexcache
+teste.testShip|1516043147711376000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\teste\testShip.py
+StudentRegister.domain.Student|1516192635536521000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\StudentRegister\domain\Student.py
+model.__init__|1516041157156450000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\model\__init__.py
+teste.testTabla|1516115650627144000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\teste\testTabla.py
+StudentRegister.repo.__init__|1516192635559584000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\StudentRegister\repo\__init__.py
+StudentRegister.tests.__init__|1516192635577133000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\StudentRegister\tests\__init__.py
+StudentRegister.domain.__init__|1516192635539027000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\StudentRegister\domain\__init__.py
+UI.__init__|1516045708472705000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\UI\__init__.py
+model.Tabla|1516116491118266000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\model\Tabla.py
+UI.Console|1516046637026009000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\UI\Console.py
+model.Ship|1516114986788172000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\model\Ship.py
+StudentRegister.tests.StudentTest|1516192635570611000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\StudentRegister\tests\StudentTest.py
+StudentRegister.repo.Repository|1516192635557075000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\StudentRegister\repo\Repository.py
+StudentRegister.tests.TestRepo|1516192635573621000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\StudentRegister\tests\TestRepo.py
+teste.__init__|1516041243334748000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\teste\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+44
+9=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\model\Tabla.py
+3=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\StudentRegister\repo\Repository.py
+12=teste.testTabla
+15=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\StudentRegister\tests\TestRepo.py
+41=FileRepository.__init__
+7=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\StudentRegister\domain\Student.py
+33=Console.__init__
+34=Ship.set_tip_ship
+10=model.Tabla
+31=Console.run
+24=Student.set_id
+32=Tabla.set_ships
+44=Test
+2=UI.Console
+4=StudentRegister.repo.Repository
+16=StudentRegister.tests.TestRepo
+22=Console
+23=Student.__init__
+14=teste.testShip
+19=Tabla.__init__
+27=FileRepository
+8=StudentRegister.domain.Student
+11=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\teste\testTabla.py
+1=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\UI\Console.py
+25=Tabla
+42=TestStudent
+30=Ship.set_orientare_ship
+20=Student
+35=Tabla.set_visible
+28=Ship.__init__
+5=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\model\Ship.py
+26=Repository
+39=Repository.__init__
+13=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\teste\testShip.py
+40=TestRepo.setUp
+6=model.Ship
+29=Student.set_name
+18=StudentRegister.tests.StudentTest
+38=TestStudent.setUp
+17=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\StudentRegister\tests\StudentTest.py
+43=TestRepo
+21=Ship
+36=Ship.set_x
+37=Ship.set_y
+-- END DICTIONARY
+-- START TREE 1
+7
+con|1|Console!1^9#7*17@
+fil|1|FileRepository!3^8#7*33@
+rep|2|Repository!3^1#7*33@RepoException!3^49#7*33@
+shi|1|Ship!5^7#7*49@
+stu|1|Student!7^1#7*65@
+tab|1|Tabla!9^10#7*81@
+tes|4|Test!11^9#7*97@Test!13^10#7*113@TestRepo!15^12#7*129@TestStudent!17^9#7*145@
+-- END TREE
+-- START TREE 2
+38
+__d|1|__down_ships!19&9^15#9*83@
+__e|1|__eq__!20&7^24#9*66@
+__i|8|__init__!21&5^13#9*50@__init__!22&1^15#9*18@__id!23&7^5#9*67@__id!24&7^18#9*67@__init__!25&9^13#9*82@__init__!26&3^2#9*34@__init__!27&3^21#9*34@__init__!20&7^4#9*66@
+__l|1|__lovituri!28&5^18#9*51@
+__n|2|__name!23&7^6#9*67@__name!29&7^22#9*67@
+__o|3|__orientare_ship!28&5^15#9*51@__orientare_ship!30&5^62#9*51@__options!31&1^51#9*19@
+__r|1|__read_command!22&1^23#9*18@
+__s|5|__ships!19&9^14#9*83@__ships!32&9^22#9*83@__showMenu!22&1^26#9*18@__str__!25&9^81#9*82@__str__!21&5^81#9*50@
+__t|4|__tabla!33&1^19#9*19@__tabla_oponent!33&1^20#9*19@__tip_ship!28&5^14#9*51@__tip_ship!34&5^58#9*51@
+__u|1|__ui_generate_ships!22&1^32#9*18@
+__v|2|__visible!19&9^16#9*83@__visible!35&9^19#9*83@
+__w|1|__writeAllToFile!27&3^32#9*34@
+__x|2|__x!28&5^16#9*51@__x!36&5^66#9*51@
+__y|2|__y!28&5^17#9*51@__y!37&5^70#9*51@
+_an|1|_anotherstudent!38&17^19#9*147@
+_el|1|_elems!39&3^3#9*35@
+_id|1|_id!38&17^13#9*147@
+_na|1|_name!38&17^14#9*147@
+_ot|3|_otherstudent!38&17^18#9*147@_otherid!38&17^15#9*147@_othername!38&17^16#9*147@
+_re|1|_repo!40&15^17#9*131@
+_st|1|_student!38&17^17#9*147@
+ada|1|adauga_lovitura!21&5^20#9*50@
+add|1|add!27&3^39#9*34@
+emo|1|emort!21&5^29#9*50@
+gen|1|gen_ran_ships!25&9^59#9*82@
+get|7|get_name!20&7^13#9*66@get_orientare_ship!21&5^43#9*50@get_x!21&5^49#9*50@get_lovituri!21&5^46#9*50@get_id!20&7^9#9*66@get_tip_ship!21&5^39#9*50@get_y!21&5^53#9*50@
+hit|1|hit_ship!25&9^24#9*82@
+is_|1|is_over!25&9^52#9*82@
+obj|1|objToStr!41&3^24#9*35@
+rea|1|readAllFromFile!27&3^11#9*34@
+run|1|run!22&1^48#9*18@
+set|10|set_id!20&7^17#9*66@set_x!21&5^65#9*50@setUp!42&17^12#9*146@set_name!20&7^21#9*66@set_tip_ship!21&5^57#9*50@setUp!43&15^15#9*130@set_y!21&5^69#9*50@set_orientare_ship!21&5^61#9*50@set_visible!25&9^18#9*82@set_ships!25&9^21#9*82@
+str|2|strToStudent!20&7^28#9*66@strToObj!41&3^23#9*35@
+stu|1|studentToStr!20&7^33#9*66@
+tea|2|tearDown!43&15^20#9*130@tearDown!42&17^22#9*146@
+tes|4|testShip!44&13^13#9*114@testTabla!44&11^12#9*98@testName!43&15^24#9*130@testName!42&17^26#9*146@
+txt|1|txt!41&3^22#9*35@
+val|1|valid!21&5^72#9*50@
+-- END TREE

@@ -1,0 +1,135 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Sudoku\.metadata\.plugins\org.eclipse.core.resources\.projects\StudentAssignments\com.python.pydev.analysis\v2_indexcache
+controller.AssignmentController|1516292764209300000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\controller\AssignmentController.py
+domain.Assignment|1516213727347793000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\domain\Assignment.py
+domain.Student|1516292754437754000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\domain\Student.py
+domain.TestAssignment|1516211987498094000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\domain\TestAssignment.py
+controller.GradeController|1516217717769946000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\controller\GradeController.py
+controller.StudentController|1516292763120788000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\controller\StudentController.py
+repository.__init__|1516212325205238000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\repository\__init__.py
+domain.Grade|1516213835287168000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\domain\Grade.py
+repository.Repository|1516292760596058000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\repository\Repository.py
+domain.StudentTest|1516211366049148000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\domain\StudentTest.py
+domain.TestGrade|1516212302033734000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\domain\TestGrade.py
+domain.__init__|1516209846673847000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\domain\__init__.py
+domain.Validators|1516215595948244000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\domain\Validators.py
+controller.__init__|1516217317163091000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\controller\__init__.py
+repository.TestRepository|1516217265958111000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\repository\TestRepository.py
+-- END DISKCACHE
+-- START DICTIONARY
+64
+16=domain.Student
+40=AssignmentFileRepository
+44=GradeController
+60=TestGrade
+9=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\domain\Grade.py
+54=TestGrade.setUp
+19=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\domain\StudentTest.py
+46=Assignment
+47=StoreError
+25=Grade.__init__
+27=Assignment.__init__
+2=domain.Validators
+37=StudentController
+36=Student.set_group
+64=GradeValidator
+18=repository.TestRepository
+32=AssignmentFileRepository.__init__
+28=Assignment.set_deadline
+49=Grade.set_nota
+12=controller.GradeController
+21=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\domain\TestAssignment.py
+14=controller.StudentController
+61=TestStudent
+42=Grade
+50=StudentController.__init__
+10=domain.Grade
+35=Student
+53=Grade.set_sid
+45=Repository.__init__
+41=GradeFileRepository
+33=GradeFileRepository.__init__
+48=Student.set_name
+57=TestStudent.setUp
+26=Grade.set_aid
+30=StoreError.__init__
+52=AssignmentController.__init__
+62=StudentValidator
+13=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\controller\StudentController.py
+5=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\controller\AssignmentController.py
+1=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\domain\Validators.py
+56=TestRepository.setUp
+24=domain.TestGrade
+11=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\controller\GradeController.py
+51=GradeController.__init__
+3=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\repository\Repository.py
+43=AssignmentController
+34=Student.__init__
+63=AssignmentValidator
+6=controller.AssignmentController
+8=domain.Assignment
+22=domain.TestAssignment
+59=TestRepository
+7=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\domain\Assignment.py
+15=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\domain\Student.py
+29=Assignment.set_descr
+55=TestAssignment.setUp
+23=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\domain\TestGrade.py
+39=StudentFileRepository
+4=repository.Repository
+38=Repository
+20=domain.StudentTest
+17=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\repository\TestRepository.py
+31=StudentFileRepository.__init__
+58=TestAssignment
+-- END DICTIONARY
+-- START TREE 1
+7
+ass|4|AssignmentValidator!1^40#7*17@AssignmentFileRepository!3^113#7*33@AssignmentController!5^9#7*49@Assignment!7^7#7*65@
+gra|4|Grade!9^7#7*81@GradeController!11^9#7*97@GradeValidator!1^50#7*17@GradeFileRepository!3^146#7*33@
+rep|2|RepositoryError!3^13#7*33@Repository!3^16#7*33@
+sto|1|StoreError!1^7#7*17@
+stu|4|StudentValidator!1^28#7*17@StudentController!13^10#7*113@StudentFileRepository!3^50#7*33@Student!15^7#7*129@
+tes|4|TestRepository!17^20#7*145@TestStudent!19^10#7*161@TestAssignment!21^10#7*177@TestGrade!23^12#7*193@
+val|1|ValidatorError!1^24#7*17@
+-- END TREE
+-- START TREE 2
+36
+__a|2|__aid!25&9^12#9*83@__aid!26&9^32#9*83@
+__d|4|__deadline!27&7^13#9*67@__deadline!28&7^32#9*67@__descr!27&7^12#9*67@__descr!29&7^28#9*67@
+__e|1|__ex!30&1^10#9*19@
+__f|3|__file_name!31&3^53#9*35@__file_name!32&3^116#9*35@__file_name!33&3^149#9*35@
+__g|4|__graded!34&15^13#9*131@__genGrades!35&15^16#9*130@__group!34&15^11#9*131@__group!36&15^41#9*131@
+__i|13|__init__!37&13^11#9*114@__init__!38&3^17#9*34@__init__!39&3^51#9*34@__init__!40&3^114#9*34@__init__!41&3^147#9*34@__init__!42&9^10#9*82@__init__!43&5^10#9*50@__init__!35&15^8#9*130@__init__!44&11^10#9*98@__items!45&3^18#9*35@__init__!46&7^10#9*66@__id!27&7^11#9*67@__init__!47&1^8#9*18@
+__l|3|__load_students!39&3^99#9*34@__load_assignments!40&3^128#9*34@__load_grades!41&3^156#9*34@
+__m|1|__message!30&1^11#9*19@
+__n|4|__name!34&15^10#9*131@__name!48&15^37#9*131@__nota!25&9^13#9*83@__nota!49&9^36#9*83@
+__r|3|__repository!50&13^12#9*115@__repository!51&11^11#9*99@__repository!52&5^11#9*51@
+__s|10|__str__!42&9^38#9*82@__sid!25&9^11#9*83@__sid!53&9^28#9*83@__str__!46&7^34#9*66@__str__!47&1^21#9*18@__save_student!39&3^108#9*34@__save_student!40&3^136#9*34@__save_grade!41&3^165#9*34@__sid!34&15^9#9*131@__str__!35&15^43#9*130@
+__u|1|__ungraded!34&15^12#9*131@
+__v|1|__validator!45&3^19#9*35@
+_ai|1|_aid!54&23^20#9*195@
+_as|2|_assign!55&21^18#9*179@_as_repo!56&17^30#9*147@
+_de|2|_deadline!55&21^16#9*179@_descr!55&21^15#9*179@
+_gr|3|_group!57&19^16#9*163@_grade!54&23^23#9*195@_gr_repo!56&17^31#9*147@
+_id|2|_id1!57&19^14#9*163@_id!55&21^14#9*179@
+_na|1|_name!57&19^15#9*163@
+_no|1|_nota!54&23^21#9*195@
+_si|1|_sid!54&23^19#9*195@
+_st|2|_student!57&19^18#9*163@_st_repo!56&17^29#9*147@
+add|4|add_student!37&13^17#9*114@add_item!38&3^21#9*34@add_assignment!43&5^16#9*50@add_garde!44&11^16#9*98@
+del|5|delete_assignment!43&5^40#9*50@deleteStudent!39&3^56#9*34@delete_student!37&13^27#9*114@delete_Grade!44&11^24#9*98@delete!38&3^25#9*34@
+fin|4|find_garde!44&11^30#9*98@find_by_id!38&3^43#9*34@find_assignment!43&5^46#9*50@find_student!37&13^33#9*114@
+get|13|get_deadline!46&7^23#9*66@get_all!38&3^40#9*34@get_id!46&7^15#9*66@get_all!37&13^14#9*114@get_sid!42&9^15#9*82@get_name!35&15^28#9*130@get_aid!42&9^19#9*82@get_group!35&15^32#9*130@get_nota!42&9^23#9*82@get_sid!35&15^24#9*130@get_all!44&11^13#9*98@get_all!43&5^13#9*50@get_descr!46&7^19#9*66@
+giv|3|giveAssToGroup!39&3^82#9*34@giveAssToStud!39&3^73#9*34@give_ass_stud!43&5^23#9*50@
+mes|1|message!47&1^14#9*18@
+pri|3|print_grades!44&11^36#9*98@print_assignments!43&5^52#9*50@print_students!37&13^39#9*114@
+sav|3|save!39&3^95#9*34@save!40&3^124#9*34@save!41&3^152#9*34@
+set|11|set_aid!42&9^31#9*82@setUp!58&21^13#9*178@setUp!59&17^23#9*146@set_sid!42&9^27#9*82@set_name!35&15^36#9*130@set_group!35&15^40#9*130@setUp!60&23^15#9*194@set_descr!46&7^27#9*66@set_deadline!46&7^31#9*66@set_nota!42&9^35#9*82@setUp!61&19^13#9*162@
+siz|1|size!38&3^37#9*34@
+tea|4|tearDown!58&21^21#9*178@tearDown!60&23^27#9*194@tearDown!59&17^35#9*146@tearDown!61&19^21#9*162@
+tes|4|testName!61&19^25#9*162@testName!59&17^39#9*146@testName!60&23^31#9*194@testName!58&21^25#9*178@
+upd|5|update!38&3^30#9*34@updateAssignment!40&3^119#9*34@update_assignment!43&5^33#9*50@update_student!37&13^24#9*114@updateStudent!39&3^64#9*34@
+val|3|validate!62&1^29#9*18@validate!63&1^41#9*18@validate!64&1^51#9*18@
+-- END TREE

@@ -1,0 +1,8 @@
+MODULES_MANAGER_V2
+controller.Controller|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Battleships2\controller\Controller.py
+controller.__init__|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Battleships2\controller\__init__.py
+main|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Battleships2\main.py
+repository.Repository|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Battleships2\repository\Repository.py
+repository.__init__|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Battleships2\repository\__init__.py
+ui.Console|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Battleships2\ui\Console.py
+ui.__init__|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Battleships2\ui\__init__.py

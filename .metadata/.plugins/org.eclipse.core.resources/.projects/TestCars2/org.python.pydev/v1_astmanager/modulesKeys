@@ -1,0 +1,13 @@
+MODULES_MANAGER_V2
+UI.Console|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\TestCars2\UI\Console.py
+UI.__init__|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\TestCars2\UI\__init__.py
+controller.Controller|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\TestCars2\controller\Controller.py
+controller.__init__|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\TestCars2\controller\__init__.py
+domain.Car|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\TestCars2\domain\Car.py
+domain.TestCar|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\TestCars2\domain\TestCar.py
+domain.Validator|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\TestCars2\domain\Validator.py
+domain.__init__|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\TestCars2\domain\__init__.py
+main|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\TestCars2\main.py
+repository.Repository|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\TestCars2\repository\Repository.py
+repository.TestRepository|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\TestCars2\repository\TestRepository.py
+repository.__init__|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\TestCars2\repository\__init__.py

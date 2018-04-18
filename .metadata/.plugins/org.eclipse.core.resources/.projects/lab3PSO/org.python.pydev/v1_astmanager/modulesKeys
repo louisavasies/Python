@@ -1,0 +1,9 @@
+MODULES_MANAGER_V2
+controller.Controller|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\lab3PSO\controller\Controller.py
+controller.__init__|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\lab3PSO\controller\__init__.py
+particle.Particle|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\lab3PSO\particle\Particle.py
+particle.__init__|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\lab3PSO\particle\__init__.py
+problem.Problem|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\lab3PSO\problem\Problem.py
+problem.__init__|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\lab3PSO\problem\__init__.py
+swarm.Swarm|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\lab3PSO\swarm\Swarm.py
+swarm.__init__|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\lab3PSO\swarm\__init__.py

@@ -1,0 +1,11 @@
+MODULES_MANAGER_V2
+UI.Console|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\practic\UI\Console.py
+UI.__init__|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\practic\UI\__init__.py
+controller.Controller|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\practic\controller\Controller.py
+controller.__init__|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\practic\controller\__init__.py
+domain.Piece|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\practic\domain\Piece.py
+domain.Table|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\practic\domain\Table.py
+domain.__init__|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\practic\domain\__init__.py
+main|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\practic\main.py
+repository.Repository|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\practic\repository\Repository.py
+repository.__init__|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\practic\repository\__init__.py

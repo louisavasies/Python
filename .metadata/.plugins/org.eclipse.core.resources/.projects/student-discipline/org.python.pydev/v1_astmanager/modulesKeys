@@ -1,0 +1,9 @@
+MODULES_MANAGER_V2
+domain.TestDiscipline|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\student-discipline\domain\TestDiscipline.py
+domain.TestSDdto|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\student-discipline\domain\TestSDdto.py
+domain.TestStudent|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\student-discipline\domain\TestStudent.py
+domain.TestStudentDiscipline|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\student-discipline\domain\TestStudentDiscipline.py
+domain.Validators|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\student-discipline\domain\Validators.py
+domain.__init__|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\student-discipline\domain\__init__.py
+domain.dto|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\student-discipline\domain\dto.py
+domain.entities|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\student-discipline\domain\entities.py

@@ -1,0 +1,16 @@
+MODULES_MANAGER_V2
+controller.AssignmentController|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\controller\AssignmentController.py
+controller.GradeController|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\controller\GradeController.py
+controller.StudentController|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\controller\StudentController.py
+controller.__init__|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\controller\__init__.py
+domain.Assignment|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\domain\Assignment.py
+domain.Grade|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\domain\Grade.py
+domain.Student|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\domain\Student.py
+domain.StudentTest|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\domain\StudentTest.py
+domain.TestAssignment|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\domain\TestAssignment.py
+domain.TestGrade|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\domain\TestGrade.py
+domain.Validators|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\domain\Validators.py
+domain.__init__|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\domain\__init__.py
+repository.Repository|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\repository\Repository.py
+repository.TestRepository|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\repository\TestRepository.py
+repository.__init__|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\StudentAssignments\repository\__init__.py

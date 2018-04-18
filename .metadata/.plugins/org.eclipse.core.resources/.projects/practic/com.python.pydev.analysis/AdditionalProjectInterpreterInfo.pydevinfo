@@ -1,0 +1,80 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Sudoku\.metadata\.plugins\org.eclipse.core.resources\.projects\practic\com.python.pydev.analysis\v2_indexcache
+controller.Controller|1517662249714545000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\practic\controller\Controller.py
+UI.__init__|1517655107591332000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\practic\UI\__init__.py
+domain.Table|1517662220374161000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\practic\domain\Table.py
+repository.Repository|1517667312824599000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\practic\repository\Repository.py
+domain.Piece|1517660708295677000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\practic\domain\Piece.py
+UI.Console|1517661973122064000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\practic\UI\Console.py
+repository.__init__|1517653309276435000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\practic\repository\__init__.py
+domain.__init__|1517650852165889000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\practic\domain\__init__.py
+main|1517658658905281000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\practic\main.py
+controller.__init__|1517654815308451000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\practic\controller\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+24
+24=App
+3=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\practic\controller\Controller.py
+23=Piece.set_sign
+18=Table
+5=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\practic\UI\Console.py
+7=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\practic\domain\Piece.py
+8=domain.Piece
+13=Table.__init__
+2=main
+14=Console.__init__
+19=Controller
+21=Controller.__init__
+4=controller.Controller
+11=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\practic\domain\Table.py
+10=repository.Repository
+12=domain.Table
+15=Repository.__init__
+17=Repository
+1=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\practic\main.py
+22=Piece.__init__
+6=UI.Console
+20=Piece
+16=Console
+9=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\practic\repository\Repository.py
+-- END DICTIONARY
+-- START TREE 1
+5
+app|2|app!1^24#9*19@App!1^12#7*17@
+con|2|Controller!3^8#7*33@Console!5^8#7*49@
+pie|1|Piece!7^7#7*65@
+rep|1|Repository!9^10#7*81@
+tab|1|Table!11^10#7*97@
+-- END TREE
+-- START TREE 2
+28
+__a|1|__AI!13&11^14#9*99@
+__c|1|__controller!14&5^10#9*51@
+__f|1|__file_name!15&9^13#9*83@
+__i|5|__init__!16&5^9#9*50@__init__!17&9^12#9*82@__init__!18&11^12#9*98@__init__!19&3^10#9*34@__init__!20&7^9#9*66@
+__p|1|__player!13&11^13#9*99@
+__r|2|__repository!21&3^11#9*35@__read_command!16&5^13#9*50@
+__s|4|__showMenu!16&5^16#9*50@__sign!22&7^12#9*67@__sign!23&7^25#9*67@__str__!18&11^82#9*98@
+__t|1|__table!15&9^14#9*83@
+__x|1|__x!22&7^10#9*67@
+__y|1|__y!22&7^11#9*67@
+add|3|addPieceOnTable!17&9^34#9*82@addPiece!18&11^46#9*98@add_piece!19&3^26#9*34@
+fin|1|findPiece!18&11^17#9*98@
+gen|6|generateTable!18&11^76#9*98@generateAIPiece!19&3^42#9*34@genPiece!18&11^57#9*98@generateTable!19&3^34#9*34@gen_table!17&9^44#9*82@generatePlayerPiece!19&3^50#9*34@
+get|3|get_x!20&7^14#9*66@get_y!20&7^18#9*66@get_sign!20&7^21#9*66@
+int|1|interchange_pieces!17&9^23#9*82@
+loa|1|load_pieces!17&9^71#9*82@
+mai|1|main!24&1^13#9*18@
+mov|1|move_piece!19&3^18#9*34@
+not|1|notOccupied!18&11^41#9*98@
+pie|2|pieceToStr!20&7^34#9*66@pieceValidate!20&7^28#9*66@
+pri|1|print_all_options!16&5^72#9*50@
+rem|1|remove_piece!18&11^32#9*98@
+run|1|run!16&5^76#9*50@
+sav|2|save_item!19&3^59#9*34@save_pieces!17&9^82#9*82@
+set|3|set_sign!20&7^24#9*66@setPieceForHuman!17&9^53#9*82@setPieceForAI!17&9^64#9*82@
+sta|1|start_game!16&5^60#9*50@
+str|1|strToPiece!20&7^38#9*66@
+ui_|4|ui_move_piece!16&5^55#9*50@ui_gen_piece!16&5^28#9*50@ui_gen_table!16&5^23#9*50@ui_gen_piece_AI!16&5^49#9*50@
+-- END TREE

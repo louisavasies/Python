@@ -1,0 +1,16 @@
+MODULES_MANAGER_V2
+StudentRegister.domain.Student|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\StudentRegister\domain\Student.py
+StudentRegister.domain.__init__|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\StudentRegister\domain\__init__.py
+StudentRegister.repo.Repository|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\StudentRegister\repo\Repository.py
+StudentRegister.repo.__init__|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\StudentRegister\repo\__init__.py
+StudentRegister.tests.StudentTest|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\StudentRegister\tests\StudentTest.py
+StudentRegister.tests.TestRepo|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\StudentRegister\tests\TestRepo.py
+StudentRegister.tests.__init__|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\StudentRegister\tests\__init__.py
+UI.Console|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\UI\Console.py
+UI.__init__|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\UI\__init__.py
+model.Ship|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\model\Ship.py
+model.Tabla|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\model\Tabla.py
+model.__init__|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\model\__init__.py
+teste.__init__|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\teste\__init__.py
+teste.testShip|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\teste\testShip.py
+teste.testTabla|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\battleships\teste\testTabla.py

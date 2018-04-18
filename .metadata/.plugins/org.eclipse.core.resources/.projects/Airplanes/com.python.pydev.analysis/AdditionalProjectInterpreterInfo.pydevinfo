@@ -1,0 +1,51 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Sudoku\.metadata\.plugins\org.eclipse.core.resources\.projects\Airplanes\com.python.pydev.analysis\v2_indexcache
+controller.Controller|1518528095385133000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Airplanes\controller\Controller.py
+repository.Repository|1518528233047900000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Airplanes\repository\Repository.py
+repository.__init__|1518443943282383000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Airplanes\repository\__init__.py
+ui.__init__|1518451657890721000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Airplanes\ui\__init__.py
+main|1518455146116105000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Airplanes\main.py
+ui.Console|1518528247348365000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Airplanes\ui\Console.py
+controller.__init__|1518450064582542000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Airplanes\controller\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+15
+15=App
+2=main
+7=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Airplanes\repository\Repository.py
+10=Console.__init__
+12=Controller
+14=Controller.__init__
+4=controller.Controller
+8=repository.Repository
+9=Repository.__init__
+11=Repository
+5=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Airplanes\ui\Console.py
+13=Console
+6=ui.Console
+3=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Airplanes\controller\Controller.py
+1=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Airplanes\main.py
+-- END DICTIONARY
+-- START TREE 1
+3
+app|2|app!1^25#9*19@App!1^13#7*17@
+con|2|Controller!3^7#7*33@Console!5^7#7*49@
+rep|1|Repository!7^8#7*65@
+-- END TREE
+-- START TREE 2
+13
+__c|4|__C_heads!9&7^12#9*67@__C_l!9&7^14#9*67@__controller!10&5^9#9*51@__C!9&7^10#9*67@
+__h|3|__H!9&7^11#9*67@__H_l!9&7^15#9*67@__H_heads!9&7^13#9*67@
+__i|3|__init__!11&7^9#9*66@__init__!12&3^8#9*34@__init__!13&5^8#9*50@
+__r|2|__read_command!13&5^68#9*50@__repo!14&3^9#9*35@
+__s|1|__str__!11&7^286#9*66@
+add|8|addLovituraC!11&7^18#9*66@addLovituraC!12&3^41#9*34@addLovitura!12&3^25#9*34@addLovituraForC!11&7^63#9*66@addPlaneC!12&3^22#9*34@addLovitura!11&7^73#9*66@addPlane!11&7^156#9*66@addPlaneH!12&3^14#9*34@
+che|2|checkPlanes!12&3^11#9*34@checkPlanes!11&7^40#9*66@
+gen|2|genPlanes!11&7^85#9*66@generateTable!11&7^280#9*66@
+mai|1|main!15&1^14#9*18@
+pri|2|printTable!12&3^45#9*34@print_all_options!13&5^71#9*50@
+run|1|run!13&5^74#9*50@
+ui_|1|ui_start_game!13&5^14#9*50@
+val|1|validatePlane!11&7^207#9*66@
+-- END TREE

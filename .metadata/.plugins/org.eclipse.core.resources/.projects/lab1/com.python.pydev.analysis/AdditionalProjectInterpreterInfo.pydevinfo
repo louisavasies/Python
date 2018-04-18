@@ -1,0 +1,66 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\Sudoku\.metadata\.plugins\org.eclipse.core.resources\.projects\lab1\com.python.pydev.analysis\v2_indexcache
+controller.Controller|1520799861665997000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\lab1\controller\Controller.py
+state.State|1520870953437647000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\lab1\state\State.py
+problem.Problem|1520799861676523000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\lab1\problem\Problem.py
+ui.__init__|1520699956735601000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\lab1\ui\__init__.py
+main|1520797311592253000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\lab1\main.py
+ui.Console|1520782274387047000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\lab1\ui\Console.py
+controller.__init__|1520699640814334000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\lab1\controller\__init__.py
+problem.__init__|1520698527659929000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\lab1\problem\__init__.py
+state.__init__|1520697623087195000|C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\lab1\state\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+19
+7=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\lab1\problem\Problem.py
+10=state.State
+15=State.__init__
+6=main
+9=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\lab1\state\State.py
+16=Console.__init__
+13=Controller
+1=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\lab1\controller\Controller.py
+3=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\lab1\ui\Console.py
+19=Controller.__init__
+2=controller.Controller
+5=C:\Users\Louis\Documents\LiClipse Workspace\RegisterManagement\lab1\main.py
+18=Problem.readFromFile
+11=State
+8=problem.Problem
+14=Console
+17=Problem.__init__
+4=ui.Console
+12=Problem
+-- END DICTIONARY
+-- START TREE 1
+6
+con|2|Controller!1^10#7*17@Console!3^9#7*33@
+ctr|1|ctrl!5^13#5*51@
+p|1|p!5^11#5*51@
+pro|1|Problem!7^10#7*65@
+sta|1|State!9^8#7*81@
+ui|1|ui!5^14#5*51@
+-- END TREE
+-- START TREE 2
+19
+__e|1|__eq__!11&9^16#9*82@
+__i|4|__init__!12&7^11#9*66@__init__!11&9^9#9*82@__init__!13&1^11#9*18@__init__!14&3^10#9*34@
+__s|1|__str__!11&9^27#9*82@
+bfs|1|bfs!13&1^17#9*18@
+con|1|config!15&9^10#9*83@
+ctr|1|ctrl!16&3^11#9*35@
+exp|2|expand!12&7^57#9*66@expand_gbfs!12&7^65#9*66@
+fil|1|filename!17&7^16#9*67@
+fin|1|finalState!17&7^15#9*67@
+gbf|1|gbfs!13&1^40#9*18@
+get|8|getInitialState!12&7^18#9*66@getState!11&9^13#9*82@getPossible!11&9^19#9*82@getValues!11&9^24#9*82@getProblem!13&1^14#9*18@getFinalState!12&7^21#9*66@get_cell!12&7^29#9*66@getValues!12&7^25#9*66@
+hei|1|height!17&7^13#9*67@
+heu|1|heuristic!12&7^73#9*66@
+ini|2|initState!17&7^14#9*67@initState!18&7^127#9*67@
+pri|1|printMainMenu!14&3^13#9*34@
+pro|1|problem!19&1^12#9*19@
+rea|1|readFromFile!12&7^107#9*66@
+run|1|run!14&3^19#9*34@
+typ|1|type!17&7^12#9*67@
+-- END TREE
